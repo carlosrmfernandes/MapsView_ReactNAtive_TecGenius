@@ -1,0 +1,3 @@
+rootProject.name = 'MapsViewTecGenius'
+
+include ':app'
